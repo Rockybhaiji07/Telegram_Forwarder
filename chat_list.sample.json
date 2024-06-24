@@ -4,18 +4,18 @@
         "destination": [-1001612590180, -1001555092484]
     },
     {
-        "source": -10098765432,
-        "destination": [-10012345678, "-10012345678#98765"],
+        "source": -1001555092484,
+        "destination": [-1001612590180, "-1001555092484#98765"],
         "filters": ["word1", "word2"]
     },
     {
-        "source": -10087654321,
-        "destination": [-10033333333],
+        "source": -1001555092484,
+        "destination": [-1001612590180],
         "blacklist": ["word3", "word4"]
     },
     {
-        "source": -10087654321,
-        "destination": [-10033333333],
+        "source": -1001555092484,
+        "destination": [-1001612590180],
         "filters": ["word5"],
         "blacklist": ["word6"]
     }
